@@ -1,0 +1,12 @@
+#myCanvas{
+    display: block;
+    margin: 50px auto;
+    background-color: #d4a989;
+}
+body{
+    background-image: url('./wuziqi.jpeg') ;
+    height:100%;
+    width:100%;
+    overflow: hidden;
+    background-size:cover;
+}
